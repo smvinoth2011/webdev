@@ -6,3 +6,4 @@ class App extends Component {
     return <h1>Hello, India</h1>;
   }
 }
+render(<App />, document.getElementById('root'));
